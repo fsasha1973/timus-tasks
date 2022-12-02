@@ -1,4 +1,4 @@
-package tasf_2012;
+package task_2012;
 
 import java.util.Scanner;
 
