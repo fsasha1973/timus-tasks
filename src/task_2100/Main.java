@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class Main {
     public static void main(String[] args) {
 
-        String inputFileName = "src/task_2100/input.txt";
+        String inputFileName = "C:\\Users\\YaralovIS\\IdeaProjects\\timus-tasks\\src\\task_2100\\input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
         int marshalAndLilly = 2;
 
@@ -44,9 +44,6 @@ public class Main {
         }catch (IOException exception) {
             exception.printStackTrace();
         }
-
-
-
 
     }
 }
