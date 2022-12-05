@@ -1,6 +1,5 @@
-package task_2001;
+package Task_2001;
 
-import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Main {
