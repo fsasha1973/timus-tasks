@@ -17,7 +17,7 @@ public class Main {
         int berries2 = b1 - b2;
         int berries1 = b3 - berries2 - b2;
 
-        System.out.println(berries2 + " " + berries1);
+        System.out.println(berries1 + " " + berries2);
 
     }
 }
